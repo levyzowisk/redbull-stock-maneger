@@ -22,10 +22,15 @@ Sistema de controle de estoque e gerenciamento de vendas para produtos Red Bull.
 ## 📋 Funcionalidades
 
 - **Dashboard**: Métricas de vendas e estoque
+![alt text](image.png)
 - **Produtos**: CRUD completo de produtos
+![alt text](image-1.png)
 - **Vendas**: Registro e histórico de vendas
+![alt text](image-2.png)
 - **Estoque**: Controle de entrada e saída
+![alt text](image-3.png)
 - **Alertas**: Produtos com estoque baixo
+![alt text](image-4.png)
 
 ## 🛠️ Instalação
 
